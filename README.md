@@ -20,22 +20,11 @@ The Clip model is a well-known multimodal representation learning framework that
 
 ### Executing program
 
-* Our problem can be directly executed using sh files provided with correct path settting
+* The problem can be directly executed using sh files provided with the correct path setting
 ```
 Training: sh train_mode.sh
 Testing: sh test.sh
 ```
-
-
-## Authors (contributed equally)
-
-Contributors names and contact info
-
-Chen Zhao (czchen.zhao@mail.utoronto.ca)
-
-Yuxuan Wang (markyx.wang@mail.utoronto.ca)
-
-Qian Tang (qianqian.tang@mail.utoronto.ca)
 
 ## Version History
 
